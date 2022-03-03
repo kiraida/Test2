@@ -1,0 +1,11 @@
+2022/03/02-20:01:13.693 56b0 Reusing MANIFEST C:\Users\john\AppData\Local\Temp\flutter_tools.295575cb\flutter_tools_chrome_device.ace3338b\Default\Session Storage/MANIFEST-000001
+2022/03/02-20:01:13.697 56b0 Recovering log #13
+2022/03/02-20:01:13.699 56b0 Level-0 table #16: started
+2022/03/02-20:01:13.711 56b0 Level-0 table #16: 28746 bytes OK
+2022/03/02-20:01:13.727 56b0 Delete type=0 #3
+2022/03/02-20:01:13.727 56b0 Delete type=0 #4
+2022/03/02-20:01:13.727 56b0 Delete type=0 #13
+2022/03/02-20:01:13.734 6544 Compacting 4@0 + 1@1 files
+2022/03/02-20:01:13.756 6544 Generated table #18@0: 245 keys, 25393 bytes
+2022/03/02-20:01:13.756 6544 Compacted 4@0 + 1@1 files => 25393 bytes
+2022/03/02-20:01:13.759 6544 compacted to: files[ 0 1 1 0 0 0 0 ]

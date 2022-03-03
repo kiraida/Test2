@@ -1,0 +1,23 @@
+2022/03/02-19:41:49.277 2f70 Reusing MANIFEST C:\Users\john\AppData\Local\Temp\flutter_tools.e2148b70\flutter_tools_chrome_device.dbb04bb0\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/02-19:41:49.277 2f70 Recovering log #18
+2022/03/02-19:41:49.278 2f70 Reusing old log C:\Users\john\AppData\Local\Temp\flutter_tools.e2148b70\flutter_tools_chrome_device.dbb04bb0\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2022/03/02-19:41:49.278 2f70 Delete type=0 #3
+2022/03/02-19:41:50.994 3348 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:50.994 3348 Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.340 5b6c Level-0 table #23: started
+2022/03/02-19:41:51.348 5b6c Level-0 table #23: 41893 bytes OK
+2022/03/02-19:41:51.354 5b6c Delete type=0 #18
+2022/03/02-19:41:51.355 5b6c Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.355 5b6c Manual compaction at level-1 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\xc8\x05\x00p\x00r\x00e\x00f\x00s' @ 6321 : 1
+2022/03/02-19:41:51.355 5b6c Compacting 1@1 + 1@2 files
+2022/03/02-19:41:51.367 5b6c Generated table #24@1: 417 keys, 32744 bytes
+2022/03/02-19:41:51.367 5b6c Compacted 1@1 + 1@2 files => 32744 bytes
+2022/03/02-19:41:51.370 5b6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/02-19:41:51.371 5b6c Delete type=2 #23
+2022/03/02-19:41:51.371 5b6c Manual compaction at level-1 from '\x00\x13\x00\x00\xc8\x05\x00p\x00r\x00e\x00f\x00s' @ 6321 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.379 5940 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.379 5940 Manual compaction at level-1 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.413 5940 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.414 5940 Manual compaction at level-1 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.526 720 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/02-19:41:51.526 4e80 Manual compaction at level-1 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
